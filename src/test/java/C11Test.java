@@ -13,7 +13,7 @@ public class C11Test {
     }
     @Test
     public void testM1() {
-        assertEquals(this.c11.m1(), "m1");
+        assertEquals(this.c11.m1(), "m1Hotfix");
     }
 
     @Test
